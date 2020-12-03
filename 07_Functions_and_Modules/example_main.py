@@ -20,7 +20,11 @@ def even(x):
 
 def _another_function(x):
     print(x)
-    
+
+def __a_func(x):
+    print(x)
+
+print(__name__)
 if __name__ == "__main__":
     # Here is where we execute the main code
     b = 4

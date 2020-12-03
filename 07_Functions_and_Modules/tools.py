@@ -1,18 +1,1 @@
-import math
-
-def odd(x):
-    '''
-    Evaluate if a number is odd.
-    '''
-    
-    return int(x) % 2 == 1
-
-def even(x):
-    '''
-    Evaluate if a number is odd.
-    '''
-    
-    return int(x) % 2 == 0
-
-
-    
+my_modules/tools.py
